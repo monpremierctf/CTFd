@@ -59,9 +59,9 @@ def setup():
         <h4 class="text-center">
             <p>A cool CTF platform for Beginners</p>
             </br>
-            <img width="200" height="200" src="themes/core/static/img/player.png" /></br>
+            <img width="200" height="200" src="themes/core/static/img/player_2.png" /></br>
             <a href="register">User click here</a> to login and start </br>
-            <img width="200" height="200" src="themes/core/static/img/admin.png" /></br>
+            <img width="200" height="200" src="themes/core/static/img/admin_2.png" /></br>
             <a href="login">Admin click here</a> to login and setup your CTF
         </h4>
     </div>
