@@ -58,9 +58,9 @@ def setup():
         <br>
         <h4 class="text-center">
             <p>A cool CTF platform for Beginners</p>
-            <p>Follow us </p>
-            <a href="register">User click here</a> to login and start 
-            <a href="admin">Admin click here</a> to login and setup your CTF
+            </br>
+            <a href="register">User click here</a> to login and start </br>
+            <a href="login">Admin click here</a> to login and setup your CTF
         </h4>
     </div>
 </div>""".format(request.script_root)
