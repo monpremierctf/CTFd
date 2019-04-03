@@ -57,12 +57,13 @@ def setup():
         <img class="w-100 mx-auto d-block" style="max-width: 500px;padding: 50px;padding-top: 14vh;" src="themes/core/static/img/logo.png" />
         <br>
         <h4 class="text-center">
-            <p>A cool CTF platform for Beginners</p>
-            </br>
+            
             <img width="200" height="200" src="themes/core/static/img/player_2.png" /></br>
-            <a href="register">User click here</a> to login and start </br>
+            <a href="register">User click here</a> to login and start </br></br>
             <img width="200" height="200" src="themes/core/static/img/admin_2.png" /></br>
-            <a href="login">Admin click here</a> to login and setup your CTF
+            <a href="login">Admin click here</a> to login and setup your CTF</br>
+            <p>A cool CTF platform for Beginners</p>
+            
         </h4>
     </div>
 </div>""".format(request.script_root)
