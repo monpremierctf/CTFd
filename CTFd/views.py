@@ -63,7 +63,7 @@ def setup():
             <a href="register">CLICK here</a> to login and start </br></br>
             <img width="200" height="200" src="themes/core/static/img/admin_2.png" /></br>
             <a href="login">Admin click here</a> to login and setup your CTF</br>
-            
+            </br></br></br></br>            
             
         </h4>
     </div>
